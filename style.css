@@ -1,0 +1,19 @@
+button{
+    background-color: aliceblue;
+    border: 1px solid black;
+}
+
+button:focus,button:hover {
+    background-color: rgb(208, 216, 223);
+}
+
+button:active{
+    background-color: rgb(182, 188, 194);
+}
+
+div{
+    height:20vh;
+    width:20vh;
+    background-color: cadetblue;
+    color:crimson;
+}
